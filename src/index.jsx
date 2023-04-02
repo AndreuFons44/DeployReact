@@ -32,7 +32,6 @@ root.render(
             <Light />
             <Experience />
             <Model />
-            <Tela />
             <Stats />
         </Canvas>
     </Suspense>
